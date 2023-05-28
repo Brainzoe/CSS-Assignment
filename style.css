@@ -1,0 +1,16 @@
+h1{
+    background-color: orange;
+    color:white;
+    text-align: center;
+}
+p{
+    font-style: italic;
+    text-align: right;
+    border: 1px solid red;
+    background-color: blue;
+    color: white;
+}
+form{
+    background-color: lightblue;
+    text-align: center;
+}
